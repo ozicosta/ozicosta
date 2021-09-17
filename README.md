@@ -14,7 +14,6 @@ Olá !! Eu sou a Ozieni Costa❤
   <img align="center" alt="Ozi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ozi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ozi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/fd0e6d1c895ea9b8455d6dbcc013542b.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div> 
 
   ##
