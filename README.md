@@ -6,7 +6,7 @@ Olá !! Eu sou a Ozieni Costa❤
  <div>
   <a href="https://github.com/ozicosta">
 <alt="image" height = "130" widtw = "80" img src = "https://github-readme-stats.vercel.app/api?username=ozicosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "130" widtw  = "10" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ozicosta&layout=compact&langs_count=7&theme=dracula" />
+  <alt="image" height = "130" widtw  = "10" img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ozicosta&layout=compact&langs_count=7&theme=dracula" />
    </div>
   
   
