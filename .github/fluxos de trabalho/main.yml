@@ -8,13 +8,13 @@ em :
 empregos :
   construir :
     nome : Trabalhos para atualizar dados
-    roda em : ubuntu-mais recente
+    roda em : Windows 10
     passos :
       # Animação de cobra
       - usa : Platane / snk @ master
         id : snake-gif
         com :
-          github_user_name : rafaballerini
+          github_user_name : ozicosta
           svg_out_path : dist / github-Contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
