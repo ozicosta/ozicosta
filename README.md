@@ -21,5 +21,5 @@ Olá !! Eu sou a Ozieni Costa❤
   <div>
      <a href="https://instagram.com/ozieni_costa" target ="_blank"><img height="30" width="75" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target =" _ blank"></a>
      <a href="https://www.linkedin.com/in/ozieni-costa-085051187" alvo ="_blank"><img height="30" width="70" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <img align="right"  alt="Ozi-yoda" src="https://i.picasion.com/pic91/bb284f47977960503f90451fa876e89b.gif">   
+     <img align="right"  alt="Ozi-yoda" src="https://i.picasion.com/pic91/b37874954c092f37bfc5679c6e9b9d31.gif">   
   </div>
