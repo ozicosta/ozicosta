@@ -1,6 +1,6 @@
 # ozicosta
  
-Olá !! Eu sou a Ozieni Costa❤
+<h1><center> Olá !! Eu sou a Ozieni Costa❤ </center></h1>
 
 <div>
   <a href="https://github.com/ozicosta">
