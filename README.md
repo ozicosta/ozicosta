@@ -2,8 +2,8 @@
 ## Olá !! Eu sou a Ozieni Costa❤
 
 <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/ozicosta">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ozicosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="left" width="19%" alt="Ozi-yoda" src="https://i.picasion.com/pic91/b37874954c092f37bfc5679c6e9b9d31.gif">
 </div>
  <div style="display: inline_block"><br>
