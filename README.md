@@ -1,5 +1,5 @@
 
-## Olá !! Eu sou a Ozieni Costa ❤
+## Olá !! Eu sou a Ozieni Costa❤
 <div>
   <a href="https://github.com/ozicosta">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ozicosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
