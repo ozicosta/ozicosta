@@ -1,5 +1,5 @@
 
-## Olá !! Eu sou a Ozieni Costa❤
+## Olá, sejam bem-vindos. Eu sou a Ozieni Costa mas pode me chamar de Ozi ❤
 <div>
   <a href="https://github.com/ozicosta">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ozicosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,7 +20,3 @@
      <a href="mailto: ozieni.costa@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://instagram.com/ozieni_costa" target ="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target =" _ blank"></a>
 </div>
-
-
- ![Snake animation](https://github.com/ozicosta/ozicosta/blob/output/github-contribution-grid-snake.svg)
-    
