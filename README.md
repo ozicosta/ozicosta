@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**ozicosta/ozicosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h2> Olá, sejam bem-vindos. Eu sou a Ozieni mas pode me chamar de Ozi ❤ <h2>
+  <h3> Tenho 24 anos, moro em Santos- SP, possuo Ingles intermediário e Espanhol avançado.<br>
+       Graduanda em Análise e Desevolvimento de Sistema.<br>
+       Estudando a linguagem de Programação JAVA com alguns projetos já concluídos e disponíveis nessa plataforma, além de conhcimento em                    JavaScript, HMTL5 e CSS3. <h3>
+  
+  ##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+     <a href="https://www.linkedin.com/in/ozieni-costa-085051187" alvo ="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="mailto: ozieni.costa@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
