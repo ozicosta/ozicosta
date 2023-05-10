@@ -1,8 +1,10 @@
 
 ## <h2> Olá, sejam bem-vindos. Eu sou a Ozieni mas pode me chamar de Ozi ❤ <h2>
-  <h3> Tenho 24 anos, moro em Santos- SP, possuo Ingles intermediário e Espanhol avançado.<br>
+  <h3> Tenho 24 anos, moro em Santos- SP, sou uma jovem apaixonada por tecnologia, disciplinada e focada.<br>
        Graduanda em Análise e Desevolvimento de Sistema.<br>
-       Estudando a linguagem de Programação JAVA com alguns projetos já concluídos e disponíveis nessa plataforma, além de conhcimento em                    JavaScript, HMTL5 e CSS3. <h3>
+       Estudando a linguagem de Programação JAVA com alguns projetos já concluídos e disponíveis nessa plataforma, além de conhcimento em                    JavaScript, HMTL5 e CSS3. 
+       Possuo Ingles intermediário e Espanhol avançado.<h3>
+    
   
   ##
 
