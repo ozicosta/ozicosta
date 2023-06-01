@@ -3,8 +3,8 @@
   <h3> Tenho 24 anos, moro em Santos- SP.<br>
        Sou uma jovem apaixonada por tecnologia e inovação, sou disciplinada e focada.<br>
        Graduanda em Análise e Desevolvimento de Sistemas na Fatec Rubens Lara.<br>
-       Estudando a linguagem de Programação JAVA com alguns projetos já concluídos e disponíveis nessa plataforma, além de conhecimento em                    JavaScript, HMTL5 e CSS3.<br>
-       Possuo Ingles intermediário e Espanhol avançado.<h3>
+       Estudando a linguagem de Programação JAVA com alguns projetos já concluídos e disponíveis nessa plataforma, além de conhecimento em                    JavaScript, HTML5 e CSS3.<br>
+       Possuo Inglês intermediário e Espanhol avançado.<h3>
     
   
   ##
