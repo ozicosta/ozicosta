@@ -1,10 +1,9 @@
 
-## <h2> Olá, sejam bem-vindos. Eu sou a Ozieni mas pode me chamar de Ozi ❤ <h2>
-  <h3> Tenho 24 anos, moro em Santos- SP.<br>
+## <h1> Hello! My name is Ozieni, but you can call me Ozi. ❤ <h/1>
+  <h3> I'm 24 years old.<br>
        Sou uma jovem apaixonada por tecnologia e inovação, sou disciplinada e focada.<br>
-       Graduanda em Análise e Desevolvimento de Sistemas na Fatec Rubens Lara.<br>
-       Estudando a linguagem de Programação JAVA com alguns projetos já concluídos e disponíveis nessa plataforma, além de conhecimento em                    JavaScript, HTML5 e CSS3.<br>
-       Possuo Inglês intermediário e Espanhol avançado.<h3>
+       Technologist in Systems Analysis and Development from FATEC-BS, with experience in technical support, computer teaching and software development. Skills in HTML, CSS, JavaScript, TypeScript, Next.js, Node.js, MongoDB SQL databases and the tools Git, GitHub, Office Suite. Passionate about technology and with a proactive and collaborative profile.
+I am seeking my first professional opportunity in the programming field, where I plan to apply my passion for solving complex challenges and my commitment to innovation.<h3>
     
   
   ##
