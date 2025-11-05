@@ -1,7 +1,6 @@
 
 ## <h1> Hello! My name is Ozieni, but you can call me Ozi. ❤ </h1>
-  <h3> I'm 25 years old.<br>
-  I'm 26 years old professional with a degree in Systems Analysis and Development from FATEC-BS.
+  <h3> I'm 26 years old professional with a degree in Systems Analysis and Development from FATEC-BS.
 
 Currently, I work in the Information Security field at MSC Mediterranean Shipping Company.
 
