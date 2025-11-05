@@ -1,11 +1,15 @@
 
 ## <h1> Hello! My name is Ozieni, but you can call me Ozi. ❤ </h1>
   <h3> I'm 25 years old.<br>
-   I am a young woman passionate about technology and innovation, disciplined and focused.<br>
-   Technologist in Systems Analysis and Development from FATEC-BS, with experience in technical support, computer teaching and software development. Skills in HTML, CSS, JavaScript, TypeScript, Next.js, Node.js, MongoDB SQL databases and the tools Git, GitHub, Office Suite. Passionate about technology and with a proactive and collaborative profile.
-I am seeking my first professional opportunity in the programming field, where I plan to apply my passion for solving complex challenges and my commitment to innovation.<h3>
-    
-  
+  Hi, my name is Ozieni, a 26 years old professional with a degree in Systems Analysis and Development from FATEC-BS.
+
+Currently, I work in the Information Security field at MSC Mediterranean Shipping Company.
+
+I have experience in technical support, computer teaching, and software development which has provided me with a solid foundation in technology.
+I am currently working in Information Security and Privacy, supporting processes and controls for data protection and regulatory compliance.
+I am deepening my studies in cybersecurity, constantly seeking to grow and contribute even more to the field.
+
+Passionate about technology, I have a proactive and collaborative profile. .<h3>
   ##
 
   <div>
