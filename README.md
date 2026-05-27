@@ -1,14 +1,26 @@
 
-## <h1> Hello! My name is Ozieni, but you can call me Ozi. ❤ </h1>
-  <h3> I'm 26 years old professional with a degree in Systems Analysis and Development from FATEC-BS.
+## <h1># Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋
 
-Currently, I work in the Information Security field at MSC Mediterranean Shipping Company.
+<h3> Seja muito bem-vindos ao meu perfil! 
 
-I have experience in technical support, computer teaching, and software development which has provided me with a solid foundation in technology.
-I am currently working in Information Security and Privacy, supporting processes and controls for data protection and regulatory compliance.
-I am deepening my studies in cybersecurity, constantly seeking to grow and contribute even more to the field.
+Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia. Minha trajetória profissional começou no suporte técnico e na docência de computação, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. 
 
-Passionate about technology, I have a proactive and collaborative profile. .<h3>
+Atualmente, faço parte do time de **Segurança da Informação e Privacidade** na MSC Mediterranean Shipping Company, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
+
+---
+
+### 🛡️ No que estou focada hoje:
+* **Cybersecurity:** Aprofundando meus estudos na área para fortalecer defesas digitais e mitigar riscos.
+* **Certificações:** Em preparação para as credenciais **ISFS (EXIN)** e **CompTIA Security+**.
+* **Idiomas:** Desenvolvendo minha fluência em inglês para o contexto global da tecnologia.
+* **Programação:** Estudando JavaScript e criando mini projetos
+
+---
+
+### 💻 Meus Repositórios
+Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios** aqui do perfil, você vai encontrar alguns mini projetos que desenvolvi para testar conceitos de código, lógica e segurança. Sinta-se à vontade para explorar e dar feedbacks!
+
+<h3>
   ##
 
   <div>
