@@ -1,7 +1,7 @@
 
 # <h1> Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋
 
-<h3> 
+<h3 style="text-align: justify;"> 
   Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia.
   
   Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação.
@@ -21,7 +21,7 @@
 # 💻 Meus Repositórios
 Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios** aqui do perfil, você vai encontrar alguns mini projetos que desenvolvi para testar conceitos de código, lógica e segurança. Sinta-se à vontade para explorar e dar feedbacks!
 
-<h3>
+</h3>
 
   <div>
     <h2> 🫱🏽‍🫲🏽 Me encontre aqui:<h2>
