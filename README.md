@@ -1,5 +1,5 @@
 
-## <h1># Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋
+# <h1># Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋
 
 <h3> 
 Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia. Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. 
@@ -8,7 +8,7 @@ Atualmente, faço parte do time de **Segurança da Informação e Privacidade** 
 
 ---
 
-### 🛡️ No que estou focada hoje:
+#🛡️ No que estou focada hoje:
 * **Cybersecurity:** Aprofundando meus estudos na área para fortalecer defesas digitais e mitigar riscos.
 * **Certificações:** Em preparação para as credenciais **ISFS (EXIN)** e **CompTIA Security+**.
 * **Idiomas:** Desenvolvendo minha fluência em inglês para o contexto global da tecnologia.
@@ -16,11 +16,10 @@ Atualmente, faço parte do time de **Segurança da Informação e Privacidade** 
 
 ---
 
-### 💻 Meus Repositórios
+# 💻 Meus Repositórios
 Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios** aqui do perfil, você vai encontrar alguns mini projetos que desenvolvi para testar conceitos de código, lógica e segurança. Sinta-se à vontade para explorar e dar feedbacks!
 
 <h3>
-  ##
 
   <div>
     <h2> You can find me here:<h2>
