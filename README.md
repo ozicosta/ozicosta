@@ -1,8 +1,7 @@
 
 ## <h1># Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋
 
-<h3> Seja muito bem-vindos ao meu perfil! 
-
+<h3> 
 Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia. Minha trajetória profissional começou no suporte técnico e na docência de computação, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. 
 
 Atualmente, faço parte do time de **Segurança da Informação e Privacidade** na MSC Mediterranean Shipping Company, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
