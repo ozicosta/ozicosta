@@ -20,7 +20,7 @@ Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios*
 
 
   <div>
-    🫱🏽‍🫲🏽 Me encontre aqui:
+   <h2> 🫱🏽‍🫲🏽 Me encontre aqui:</h2><br>
      <a href="https://www.linkedin.com/in/ozieni-costa-085051187" target="_blank">
        <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
        <a href="mailto: ozieni.costa@gmail.com" target="_blank">
