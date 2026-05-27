@@ -3,7 +3,7 @@
 
 <h3 style="text-align: justify;"> 
 Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia.
-Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. Atualmente, faço parte do time de <strong>Segurança da Informação Privacidade</strong> em uma multinacional, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
+Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infra, código e, acima de tudo, comunicação. Atualmente, faço parte do time de <strong>Segurança da Informação Privacidade</strong> em uma multinacional, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
 </h3>
 
 
