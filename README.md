@@ -2,9 +2,9 @@
 ## <h1># Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋
 
 <h3> 
-Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia. Minha trajetória profissional começou no suporte técnico e na docência de computação, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. 
+Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia. Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. 
 
-Atualmente, faço parte do time de **Segurança da Informação e Privacidade** na MSC Mediterranean Shipping Company, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
+Atualmente, faço parte do time de **Segurança da Informação e Privacidade** na MSC Shipping, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
 
 ---
 
@@ -12,7 +12,7 @@ Atualmente, faço parte do time de **Segurança da Informação e Privacidade** 
 * **Cybersecurity:** Aprofundando meus estudos na área para fortalecer defesas digitais e mitigar riscos.
 * **Certificações:** Em preparação para as credenciais **ISFS (EXIN)** e **CompTIA Security+**.
 * **Idiomas:** Desenvolvendo minha fluência em inglês para o contexto global da tecnologia.
-* **Programação:** Estudando JavaScript e criando mini projetos
+* **Programação:** Aperfeiçoando conhecimentos em JavaScript, TypeScript, Bootstrap, Sass, React, Next.Js e Banco de dados.
 
 ---
 
