@@ -18,7 +18,7 @@
 # <h3>💻 Meus Repositórios </h3>
 Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios** aqui do perfil, você vai encontrar alguns mini projetos que desenvolvi para testar conceitos de código, lógica e segurança. Sinta-se à vontade para explorar e dar feedbacks!
 
-<hr>
+---
 
   <div>
    <h3> 🫱🏽‍🫲🏽 Me encontre aqui:</h3>
