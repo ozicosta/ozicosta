@@ -6,7 +6,7 @@
   
   Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação.
   
-  Atualmente, faço parte do time de *Segurança da Informação e Privacidade* na *MSC Shipping*, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
+  Atualmente, faço parte do time de *Segurança da Informação e Privacidade* em uma multinacional, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
 
 ---
 
@@ -24,7 +24,7 @@ Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios*
 <h3>
 
   <div>
-    <h2> You can find me here:<h2>
+    <h2> Me encontre aqui:<h2>
      <a href="https://www.linkedin.com/in/ozieni-costa-085051187" target="_blank">
        <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
        <a href="mailto: ozieni.costa@gmail.com" target="_blank">
