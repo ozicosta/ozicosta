@@ -1,7 +1,7 @@
 
-<h1> Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋 </h1>
+<h2> Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋 </h2>
 
-<h3 style="text-align: justify;"> 
+<h3> 
   Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia. Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. Atualmente, faço parte do time de <strong>Segurança da Informação e Privacidade</strong> em uma multinacional, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
 </h3>
 ---
