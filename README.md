@@ -6,7 +6,7 @@
 </h3>
 ---
 
-# 🛡️ No que estou focada hoje:
+# <h3> 🛡️ No que estou focada hoje: </h3>
 * **Cybersecurity:** Aprofundando meus estudos na área para fortalecer defesas digitais e mitigar riscos.
 * **Certificações:** Em preparação para as credenciais **ISFS (EXIN)** e **CompTIA Security+**.
 * **Idiomas:** Desenvolvendo minha fluência em inglês para o contexto global da tecnologia e aprimorando contiuamente meu espanhol.
@@ -14,7 +14,7 @@
 
 ---
 
-# 💻 Meus Repositórios
+# <h3>💻 Meus Repositórios </h3>
 Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios** aqui do perfil, você vai encontrar alguns mini projetos que desenvolvi para testar conceitos de código, lógica e segurança. Sinta-se à vontade para explorar e dar feedbacks!
 
 
