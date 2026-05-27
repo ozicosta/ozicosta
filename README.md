@@ -1,7 +1,7 @@
 
 # <h1> Olá! Sou a Ozieni, mas pode me chamar de Ozi 👋
 
-<h3 style="text-align: justify;"> 
+<h3 style="text-align: center;"> 
   Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia.
   
   Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação.
