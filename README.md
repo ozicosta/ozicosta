@@ -3,8 +3,7 @@
 
 <h2 style="text-align: justify;"> 
   Sou graduada em Análise e Desenvolvimento de Sistemas pela FATEC-BS e apaixonada por tecnologia. Minha trajetória profissional começou no suporte técnico, o que me deu uma base sólida de infraestrutura, código e, acima de tudo, comunicação. Atualmente, faço parte do time de <strong>Segurança da Informação e Privacidade</strong> em uma multinacional, atuando diretamente com processos, controles de proteção de dados e conformidade regulatória. 
-
-
+</h2>
 ---
 
 # 🛡️ No que estou focada hoje:
@@ -26,4 +25,4 @@ Para tirar a teoria do papel, adoro construir coisas. Na aba de **Repositórios*
        <a href="mailto: ozieni.costa@gmail.com" target="_blank">
      <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-</h2>
+
